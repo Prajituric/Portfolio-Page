@@ -1,9 +1,8 @@
 import { motion } from "framer-motion";
-import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 import { mediaQueries } from "./Themes";
 
-const Box = styled(motion(NavLink))`
+const Box = styled.div`
   backdrop-filter: blur(2px);
   box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
   text-decoration: none;
@@ -120,10 +119,10 @@ const item = {
 };
 
 const PathComponent = (props) => {
-  const { name, date, imgSrc, link } = props.path;
+  const { name, date, imgSrc } = props.path;
   return (
     <Container variants={item}>
-      <Box to={{ pathname: `${link}` }}>
+      <Box>
         <Image img={imgSrc} />
         <Title>{name}</Title>
         <Date>{date}</Date>

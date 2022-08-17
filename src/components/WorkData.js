@@ -29,16 +29,16 @@ export const Work = [
     demo: "https://whispernow.netlify.app/index.html",
     github: "https://github.com/Prajituric/Whisper-News",
   },
-  // {
-  //   id: 4,
-  //   name: "Sidebar Menu",
-  //   description:
-  //     "A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-  //   tags: ["react", "styledComponents", "react-router"],
+  {
+    id: 4,
+    name: "Healthy food",
+    description:
+      "A clone of a well-known course project, focused to making a good diet for everyone",
+    tags: ["JavaScript", "clone", "project"],
 
-  //   demo: "https://react-sidebar.vercel.app/",
-  //   github: "https://github.com/codebucks27/react-sidebar",
-  // },
+    demo: "https://foodhealthy.netlify.app/",
+    github: "https://github.com/Prajituric/Omnifood",
+  },
   // {
   //   id: 5,
   //   name: "Todo App(React + Redux)",

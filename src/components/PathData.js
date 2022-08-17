@@ -12,8 +12,7 @@ export const Paths = [
     tags: ["react", "styled-components"],
     date: "Aug, 2020",
     imgSrc:
-      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660747415/html-css-1_uxr1fm.jpg",
-    link: "https://codebucks.hashnode.dev/react-hamburger-menu",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660747952/html-css-1_ul3jzi.jpg",
   },
   {
     id: 3,
@@ -21,8 +20,7 @@ export const Paths = [
     tags: ["react", "react-lottie", "styled-components"],
     date: "Dec, 2020",
     imgSrc:
-      "https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625552344293%2Fegwis0UIX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-    link: "https://codebucks.hashnode.dev/react-loading-screens",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660751697/javascript-tips_osklgk.jpg",
   },
   {
     id: 4,
@@ -30,22 +28,21 @@ export const Paths = [
     tags: ["react", "redux", "framer-motion"],
     date: "May, 2021",
     imgSrc:
-      "https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
-    link: "https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660751778/UXUI-trends-1_ixtojx.jpg",
   },
   {
     id: 5,
     name: "Going deeper into Cotrol Systems like Git and GitHub",
     date: "July, 2021",
     imgSrc:
-      "https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625295480148%2FlyKj8bpHK.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660751853/1_mtsk3fQ_BRemFidhkel3dA_ecsrtn.png",
   },
   {
     id: 6,
     name: "Learning about package managers like NPM, CSS Processors and Frameworks",
     date: "Aug, 2021",
     imgSrc:
-      "https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625240050668%2FGAya9b0XK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660751965/0_7UL6DbxnRpxIGudp_iprm5x.jpg",
   },
 
   {
@@ -53,27 +50,27 @@ export const Paths = [
     name: "Going further into React, TypeScript and Testing with Jest",
     date: "Sept, 2021",
     imgSrc:
-      "https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660752454/hero-a3af657c848ce8870c7a7bfac092e63a_u6rhyw.png",
   },
   {
     id: 8,
     name: "Getting into Computer Science College",
     date: "Oct, 2021",
     imgSrc:
-      "https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660752535/safar-safarov-msn8tfhj0is-unsplash-scaled_bpnqi6.jpg",
   },
   {
     id: 9,
     name: "Enroll into a Frontend Bootcamp, finishing until now multiple courses on Udemy, FreeCodeCamp and Harvard CS50",
     date: "Feb, 2022",
     imgSrc:
-      "https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660752635/fcc_meta_1920X1080-indigo_rj9zn9.png",
   },
   {
     id: 10,
     name: "Continuing learning something new everyday",
     date: "Today",
     imgSrc:
-      "https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+      "https://res.cloudinary.com/devul/image/upload/c_scale,h_420,q_auto:best,w_1000/v1660752728/blog_pictures2Fartificial-intelligence-future-of-programming_fnaxex.jpg",
   },
 ];
