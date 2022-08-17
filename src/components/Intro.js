@@ -183,7 +183,6 @@ const Text = styled(motion.div)`
 `;
 
 const Intro = () => {
-  /* console.log(mq); */
 
   const [height, setHeight] = useState("55vh");
 

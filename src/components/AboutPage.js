@@ -5,7 +5,7 @@ import styled, { keyframes, ThemeProvider } from "styled-components";
 import { DarkTheme, mediaQueries } from "./Themes";
 import astronaut from "../assets/Images/spaceman.png";
 import Loading from "../subComponents/Loading";
-//Components
+
 const SocialIcons = lazy(() => import("../subComponents/SocialIcons"));
 const PowerButton = lazy(() => import("../subComponents/PowerButton"));
 const LogoComponent = lazy(() => import("../subComponents/LogoComponent"));
