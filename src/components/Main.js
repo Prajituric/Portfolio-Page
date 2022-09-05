@@ -73,7 +73,7 @@ const Center = styled.button`
   align-items: center;
   transition: all 1s ease;
   & > *:first-child {
-    animation: ${rotate} infinite 1.5s linear;
+    animation: ${rotate} infinite 1.8s linear;
   }
   & > *:last-child {
     display: ${(props) => (props.click ? "none" : "inline-block")};

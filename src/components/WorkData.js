@@ -1,23 +1,23 @@
 export const Work = [
   {
     id: 1,
-    name: "Travelly",
+    name: "Real-Time Weather App",
     description:
-      "It is build as a prototype for a travel app. Based on css and html to combine the useful with the pleasant.",
-    tags: ["html", "css", "travel", "animations"],
+      "An application which can allow you to search information about weather from any place in the world",
+    tags: ["api", "forecast"],
 
-    demo: "https://travelwithlove.netlify.app/",
-    github: "https://github.com/Prajituric/Travelly",
+    demo: "http://react-responsive-navbar-codebucks27.vercel.app/",
+    github: "https://github.com/codebucks27/React-responsive-navbar",
   },
   {
     id: 2,
-    name: "Photography",
+    name: "Music Playlist",
     description:
-      "A website which combine the photographer with the beauty of his art.",
-    tags: ["minimalism", "css"],
+      "A playlist for your favourite music to make your day better. And the night with the dark mode",
+    tags: ["music", "relax", "JavaScript"],
 
-    demo: "https://photographerantonia.netlify.app/",
-    github: "https://github.com/Prajituric/Photography-site",
+    demo: "https://music-playlist4home.netlify.app/",
+    github: "https://github.com/Prajituric/Music-Playlist",
   },
   {
     id: 3,
@@ -39,24 +39,24 @@ export const Work = [
     demo: "https://foodhealthy.netlify.app/",
     github: "https://github.com/Prajituric/Omnifood",
   },
-  // {
-  //   id: 5,
-  //   name: "Todo App(React + Redux)",
-  //   description:
-  //     "A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-  //   tags: ["react", "redux", "framer-motion"],
+  {
+    id: 5,
+    name: "Travelly",
+    description:
+      "It is build as a prototype for a travel app. Based on css and html to combine the useful with the pleasant.",
+    tags: ["html", "css", "travel", "animations"],
 
-  //   demo: "http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-  //   github: "https://github.com/codebucks27/React-Redux-Todo-App",
-  // },
-  // {
-  //   id: 6,
-  //   name: "Responsive Navigation Menu",
-  //   description:
-  //     "A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-  //   tags: ["react", "react-router", "css"],
+    demo: "https://travelwithlove.netlify.app/",
+    github: "https://github.com/Prajituric/Travelly",
+  },
+  {
+    id: 6,
+    name: "Photography",
+    description:
+      "A website which combine the photographer with the beauty of his art.",
+    tags: ["minimalism", "css"],
 
-  //   demo: "http://react-responsive-navbar-codebucks27.vercel.app/",
-  //   github: "https://github.com/codebucks27/React-responsive-navbar",
-  // },
+    demo: "https://photographerantonia.netlify.app/",
+    github: "https://github.com/Prajituric/Photography-site",
+  },
 ];
