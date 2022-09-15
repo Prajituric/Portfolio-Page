@@ -9,7 +9,6 @@ import Intro from "./Intro";
 import Loading from "../subComponents/Loading";
 import { mediaQueries } from "./Themes";
 
-const PowerButton = lazy(() => import("../subComponents/PowerButton"));
 const SocialIcons = lazy(() => import("./../subComponents/SocialIcons"));
 
 const LogoComponent = lazy(() => import("./../subComponents/LogoComponent"));
@@ -199,7 +198,6 @@ const Main = () => {
         <DarkDiv click={click} />
         <Container>
           <LogoComponent theme={click ? "dark" : "light"} />
-          <PowerButton />
           {mq ? (
             <SocialIcons theme="light" />
           ) : (
