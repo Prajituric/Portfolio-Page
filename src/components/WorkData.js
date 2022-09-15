@@ -1,13 +1,23 @@
 export const Work = [
   {
-    id: 1,
+    id: 0,
     name: "Real-Time Weather App",
     description:
       "An application which can allow you to search information about weather from any place in the world",
     tags: ["api", "forecast"],
 
-    demo: "http://react-responsive-navbar-codebucks27.vercel.app/",
-    github: "https://github.com/codebucks27/React-responsive-navbar",
+    demo: "https://realtime-weatherapp.netlify.app/",
+    github: "https://github.com/Prajituric/Weather-App-RealTime",
+  },
+  {
+    id: 1,
+    name: "Dice Game",
+    description:
+      "A browser game where you and your friend can play together and win when the score reach 100 points",
+    tags: ["game", "dice", "PvP"],
+
+    demo: "https://dicegamepvp.netlify.app/",
+    github: "https://github.com/Prajituric/DiceGame",
   },
   {
     id: 2,
